@@ -1,0 +1,44 @@
+{
+  "emp_details": [
+    {
+      "id": "1",
+      "name": "Arvind1",
+      "img": "./Images/member-1.png",
+      "email": "Arvind@gmail.com",
+      "password": "12345",
+      "address": "Ahemdabad"
+    },
+    {
+      "id": "3",
+      "name": "Amrit",
+      "img": "./Images/member-3.png",
+      "email": "Amrit@gmail.com",
+      "password": "12345",
+      "address": "Gandhinagar"
+    },
+    {
+      "id": "4",
+      "name": "Ashwin",
+      "img": "./Images/member-4.png",
+      "email": "Ashwin@gmail.com",
+      "password": "12345",
+      "address": "lawgarden"
+    },
+    {
+      "id": "5",
+      "name": "hitesh",
+      "img": "./Images/member-5.png",
+      "email": "Hitesh@gmail.com",
+      "password": "12345",
+      "address": "Solabriage"
+    },
+    {
+      "id": "6",
+      "name": "Dilip",
+      "img": "./Images/member-5.png",
+      "email": "Dilip@gmail.com",
+      "password": "12345",
+      "address": "Memnagar"
+    }
+  ]
+}
